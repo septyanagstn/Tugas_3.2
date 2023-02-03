@@ -3,6 +3,10 @@ Template 2109 The Card
 http://www.tooplate.com/view/2109-the-card
 */
 
+.font-gede{
+  font-size: 55px;
+}
+
 * {
   margin: 0;
   padding: 0;
